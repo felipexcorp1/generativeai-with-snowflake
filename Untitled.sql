@@ -1,1 +1,0 @@
-DESCRIBE API INTEGRATION "github_snowflake_integration";
